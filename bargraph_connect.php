@@ -1,7 +1,6 @@
 <?php
     //Connect to database
-    $dbc = mysqli_connect("192.168.225.36", "dashboard", "dashboard", "eblconnect") or die("error connecting to database");
-
+    
     //Create query to fetch the records
 	
 	$currentDateTime = date('Y');

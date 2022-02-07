@@ -1,5 +1,5 @@
 <?php
-    //Connect to database
+    Connect to database
 	include('conn_otp.php');
 
     //Create query to fetch the records
